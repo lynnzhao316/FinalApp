@@ -12,5 +12,5 @@
    * [3.3 界面设计](section33.md)
    * [3.4 细节设计](section34.md)
 * [Chapter4](chapter4.md)
-* Chapter5
+* [Chapter5](chapter5.md)
 
