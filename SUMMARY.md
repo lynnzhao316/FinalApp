@@ -11,5 +11,5 @@
    * [3.2.4 第三个屏幕的设计](section324.md)
    * [3.3 界面设计](section33.md)
    * [3.4 细节设计](section34.md)
-* Chapter4
+* [Chapter4](chapter4.md)
 
